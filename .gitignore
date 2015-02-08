@@ -4,6 +4,7 @@ nbproject/*
 !nbproject/project.properties
 !nbproject/project.xml
 build/
+bin/
 nbbuild/
 dist/
 nbdist/
